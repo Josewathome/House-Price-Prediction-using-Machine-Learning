@@ -10,6 +10,7 @@ For this task, I have chosen to implement four distinct regression models:
   - *Random Forest Regressor*
   - *Linear Regressor*
   - *Cat Boost Regressor*
+    
 These models were selected due to their proven effectiveness in handling different types of data patterns and their robust performance in regression tasks.
 
 To measure the accuracy of these models, I will be using the Mean Absolute Percentage Error (MAPE) metric. This will offer a clear indication of how close the predictions are to the actual prices, thereby ensuring the reliability of our model.
